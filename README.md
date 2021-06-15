@@ -1,5 +1,4 @@
 # WGTIK_2021
-Base code for personal website exercise for WGTIK 2021
+Hasil WEB WGTIK 
 
-example result:
-[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
+[https://ikhcraft15.github.io./](https://ikhcraft15.github.io./)
